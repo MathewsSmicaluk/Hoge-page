@@ -1,0 +1,40 @@
+.carrossel{
+    width: 800px;
+    height: 400px;
+}
+
+.imgs{
+    width: 800px;
+    height: 400px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: center;
+    margin: 15px 0px 30px 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.IMG{
+    margin-top: 40%;
+}
+.carouselCard{
+    background: #181f39;
+    border: #efefef 1px solid;
+    width: 30vh;
+    height: 400px;
+    margin-right: 50px;
+    color: #efefef;
+}

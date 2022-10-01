@@ -1,0 +1,26 @@
+NOTAS DO QUE FOI FEITO
+
+==================//==================
+
+CRIEI: 
+
+Criei uma pasta no SRC chamda IMG, essa pasta serve para salvar todas as imagens baixadas e internas dentro arquivo(EX. a logo);
+
+CARD:
+
+No card criei um props, assim você não tem o trabalho de escrever tudo de novo várias vezes.
+Incrementei só mais uma linha no seu CSS para dar um espaço entre os cards
+
+CARDGROUP:
+
+Criei um componente novo chamado "CardGroup", nele estou criando os CARD's com as configurações das props. 
+E assim chamando apenas o Grupo de cards no Index.js principal.
+
+BOOTSTRAP:
+instalei uma bibliteca no seu arquivo, o REACT BOOTSTRAP para facilitar na estilizção de algumas coisas.
+
+DELETEI:
+
+Deletei um Componente que você tinha criado chamado "carouselCard", pois ele não fazia nada.
+
+ 
