@@ -1,13 +1,5 @@
 .app {
   padding-top: calc(1.25vh);
-  background: #181f39;
-}
-
-.back {
-  border: #efefef 2px solid;
-  max-inline-size: 99%;
-  display: block;
-  margin-left: 0.8vh;
-  padding-bottom: 1.5%;
+  background: linear-gradient(45deg, #000814, #001D3D, #0E1427);
   height: 100%;
 }

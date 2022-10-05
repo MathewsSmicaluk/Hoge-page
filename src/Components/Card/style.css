@@ -1,8 +1,8 @@
 .card1{
-  background: #181f39;
+  background-color: transparent;
   border: #efefef 1px solid;
   width: 25vh;
-  height: 36vh;
+  height: 40vh;
   margin-top: 2vh;
   display: flex;
   justify-content: center;
@@ -10,6 +10,7 @@
   flex-direction: column;
   margin: 4px 9px 20px; 
   border-radius: 2%;
+  cursor: pointer;
   /* " margin: 20px 9px 20px; " esse treco mexe no espaçamento entre um CARD e outro, você pode ajustar os valores depois
   vale lembrar que a ordem é SUPERIOR, DIREITA, BAIXO, ESQUERDA*/
 }
@@ -21,7 +22,10 @@
 .descrição{
   font-size: 17px;
   color: #efefef;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
   letter-spacing: 1px;
+  text-align: center;
 }
 
 .orgCard{
